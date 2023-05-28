@@ -520,7 +520,7 @@ int main()
 	assert(false);
 
 	//random number for sleep
-	Sleep(1000 * (60 * chooseRandom()));
+	//Sleep(1000 * (60 * chooseRandom()));
 
 	//start threads
 	thread t2(task2);
