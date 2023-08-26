@@ -24,7 +24,7 @@ bool ads = false;
 int mtime = 60;
 
 string fileName = "banner.bmp";
-string data0 = "https://raw.githubusercontent.com/l0ngspace/example-adware/main/example.json";
+string data0 = "https://raw.githubusercontent.com/puppis42/example-adware/main/example.json";
 
 int wpos = 1;
 
